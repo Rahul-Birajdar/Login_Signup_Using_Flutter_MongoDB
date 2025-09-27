@@ -23,10 +23,6 @@ This project demonstrates a simple Login, Signup, and Home app built with:
 • Login Page → Login with email & password  
 • Home Page → Displays "Welcome"  
 
-# Validation Rules  
-• Email must be in valid format (e.g., user@example.com)  
-• Password cannot be empty  
-
 # Login
 <img width="1919" height="798" alt="login" src="https://github.com/user-attachments/assets/abdbc3ef-7d4e-4546-9e8d-9ef6834599c8" />
 
