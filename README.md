@@ -6,28 +6,29 @@ This project demonstrates a simple Login, Signup, and Home app built with:
 • MongoDB (Database)  
 
 # Features  
-Signup with Email & Password  
-Login with Email & Password  
+• Signup with Email & Password  
+• Login with Email & Password  
 
 # Data Validations:  
-Email format check  
-Password must not be empty  
+• Email format check  
+• Password must not be empty  
 
-# Home Page: Displays a static "Welcome" message  
+# Home Page: 
+• Displays a static "Welcome" message    
 
 # Tech Stack  
-Frontend: Flutter (Dart, HTTP package)  
-Backend: Node.js, Express.js  
-Database: MongoDB (Mongoose)  
+• Frontend: Flutter (Dart, HTTP package)  
+• Backend: Node.js, Express.js  
+• Database: MongoDB (Mongoose)  
   
 # Pages  
-Signup Page → Register with email & password  
-Login Page → Login with email & password  
-Home Page → Displays "Welcome"  
+• Signup Page → Register with email & password  
+• Login Page → Login with email & password  
+• Home Page → Displays "Welcome"  
 
 # Validation Rules  
-Email must be in valid format (e.g., user@example.com)  
-Password cannot be empty  
+• Email must be in valid format (e.g., user@example.com)  
+• Password cannot be empty  
 
 # Login
 <img width="1919" height="798" alt="login" src="https://github.com/user-attachments/assets/abdbc3ef-7d4e-4546-9e8d-9ef6834599c8" />
