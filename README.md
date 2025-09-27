@@ -1,9 +1,9 @@
 # Login & SignUp Using Flutter & MongoDB
 
 This project demonstrates a simple Login, Signup, and Home app built with:    
-Flutter (Frontend UI)  
-Node.js + Express (Backend API)  
-MongoDB (Database)  
+*Flutter (Frontend UI)  
+*Node.js + Express (Backend API)  
+*MongoDB (Database)  
 
 # Features  
 Signup with Email & Password  
