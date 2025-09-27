@@ -13,9 +13,6 @@ This project demonstrates a simple Login, Signup, and Home app built with:
 • Email format check  
 • Password must not be empty  
 
-# Home Page: 
-• Displays a static "Welcome" message    
-
 # Tech Stack  
 • Frontend: Flutter (Dart, HTTP package)  
 • Backend: Node.js, Express.js  
